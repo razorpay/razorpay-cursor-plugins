@@ -1,0 +1,23 @@
+{
+  "name": "razorpay",
+  "owner": {
+    "name": "Razorpay",
+    "email": "agentic-payments@razorpay.com"
+  },
+  "metadata": {
+    "description": "Official Razorpay plugins for Cursor: agentic shopping and payments through Razorpay's hosted MCP servers.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "razorpay-ace-marketplace",
+      "source": "./plugins/razorpay-ace-marketplace",
+      "description": "Shop across thousands of Indian D2C brands and check out via Razorpay's secure hosted checkout."
+    },
+    {
+      "name": "razorpay-remote-mcp-server",
+      "source": "./plugins/razorpay-remote-mcp-server",
+      "description": "Work with your Razorpay account (payments, orders, refunds, payment links, settlements) from Cursor."
+    }
+  ]
+}

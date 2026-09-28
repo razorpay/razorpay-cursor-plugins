@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "razorpay": {
+      "url": "https://mcp.razorpay.com/mcp"
+    }
+  }
+}

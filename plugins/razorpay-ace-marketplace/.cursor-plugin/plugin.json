@@ -1,0 +1,26 @@
+{
+  "name": "razorpay-ace-marketplace",
+  "displayName": "Razorpay ACE Marketplace",
+  "version": "2.0.0",
+  "description": "Razorpay ACE Marketplace: shop across thousands of Indian D2C brands in one integration, across Shopify, Fynd and other commerce-platform stores. Browse, compare, add to cart, and check out via Razorpay's secure hosted checkout pages.",
+  "author": {
+    "name": "Razorpay",
+    "email": "agentic-payments@razorpay.com"
+  },
+  "homepage": "https://merchants.agent.razorpay.com",
+  "repository": "https://github.com/razorpay/razorpay-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "Concierge",
+    "Razorpay",
+    "ACE",
+    "Agentic Commerce Engine",
+    "Merchant",
+    "Commerce",
+    "Shopify",
+    "D2C",
+    "India",
+    "Shopping"
+  ],
+  "logo": "assets/logo.svg"
+}
