@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "razorpay-ace-marketplace": {
+      "url": "https://merchants.agent.razorpay.com/mcp"
+    }
+  }
+}

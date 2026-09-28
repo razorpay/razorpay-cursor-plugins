@@ -1,0 +1,24 @@
+{
+  "name": "razorpay-remote-mcp-server",
+  "displayName": "Razorpay",
+  "version": "1.0.0",
+  "description": "Razorpay's official hosted MCP server. Create and track payments, orders, refunds, payment links, QR codes and settlements on your Razorpay account from Cursor. Sign in with your Razorpay account; no keys are stored in the plugin.",
+  "author": {
+    "name": "Razorpay",
+    "email": "agentic-payments@razorpay.com"
+  },
+  "homepage": "https://github.com/razorpay/razorpay-mcp-server",
+  "repository": "https://github.com/razorpay/razorpay-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "Razorpay",
+    "Payments",
+    "Payment Links",
+    "Refunds",
+    "Settlements",
+    "UPI",
+    "India",
+    "Fintech"
+  ],
+  "logo": "assets/logo.svg"
+}
